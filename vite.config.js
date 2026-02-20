@@ -10,7 +10,7 @@ export default defineConfig({
       babel: {
         plugins: [['babel-plugin-react-compiler']],
       },
-      base: "/Finovo"
+      base: "/Finovo/"
     }),
     tailwindcss(),
     flowbiteReact()
