@@ -81,3 +81,8 @@ background: linear-gradient(159deg, rgba(167, 192, 231, 1) 0%, rgba(245, 169, 16
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#A7C0E7", endColorstr="#EFB4B6", GradientType=0);
 }
 
+.swiper-navigation-icon{
+  color: black;
+  cursor: pointer;
+}
+
