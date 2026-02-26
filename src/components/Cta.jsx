@@ -16,7 +16,7 @@ function Cta(){
           TOGETHER TO BUILD A STRONGER TOMORROW.
         </h1>
 
-        <button className="mt-6 px-4 py-3 bg-black text-white rounded-full hover:bg-gray-800 transition">
+        <button className="mt-6 px-4 py-3 cursor-pointer bg-black text-white rounded-full hover:bg-gray-800 transition">
           Get Started Today
         </button>
       </div>

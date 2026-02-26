@@ -44,6 +44,7 @@ function Testimonial() {
             rounded-full 
             hover:bg-gray-800 
             transition
+            cursor-pointer
           ">
             Explore All
           </button>

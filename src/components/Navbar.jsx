@@ -158,7 +158,7 @@ function Navbar() {
             <div className="relative">
               <button
                 onClick={() => setOpenLanguage((v) => !v)}
-                className="flex items-center px-2 md:px-4 py-2 bg-transparent border border-stone-700 rounded-full text-black text-xs md:text-sm"
+                className="flex items-center px-2 md:px-4 py-2 bg-transparent border cursor-pointer border-stone-700 rounded-full text-black text-xs md:text-sm"
               >
                 <img
                   src="https://cdn-icons-png.flaticon.com/512/555/555417.png"
@@ -198,7 +198,7 @@ function Navbar() {
 
             <button
                 onClick={() => setShowAlert(true)}
-                className="hidden md:flex items-center justify-center px-5 py-3 w-32 bg-black text-white rounded-full"
+                className="hidden md:flex items-center justify-center cursor-pointer px-5 py-3 w-32 bg-black text-white rounded-full"
             >
                 Log in
             </button>

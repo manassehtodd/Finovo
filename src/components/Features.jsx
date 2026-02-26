@@ -11,7 +11,7 @@ function Features(){
                     TAKE CONTROL OF YOUR FINANCIAL FUTURE TODAY
                 </h1>
 
-            <button className="mt-6 px-6 py-3 bg-black text-white rounded-full hover:bg-gray-800 transition">
+            <button className="mt-6 px-6 py-3 bg-black cursor-pointer text-white rounded-full hover:bg-gray-800 transition">
                 Explore All
             </button>
         </div>

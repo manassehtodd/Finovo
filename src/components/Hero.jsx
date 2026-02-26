@@ -47,7 +47,7 @@ function Hero() {
                 />
               </div>
 
-              <button className="h-12 w-12 md:h-14 md:w-14 rounded-full bg-black text-white flex items-center justify-center hover:scale-105 transition">
+              <button className="h-12 w-12 md:h-14 md:w-14 cursor-pointer rounded-full bg-black text-white flex items-center justify-center hover:scale-105 transition">
                 <FontAwesomeIcon icon={faArrowRight} />
               </button>
             </div>
