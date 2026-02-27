@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
@@ -13,6 +14,7 @@ function App() {
   return (
 
     <div className= "min-h-screen bg-[#efb4b6] text-black overflow-hidden" style={appStyle}>
+      <SpeedInsights />
       <Navbar />
       <Hero />
       <About />
