@@ -23,7 +23,6 @@ function Questions({ data, onClick, isOpen }) {
           text-gray-600
           overflow-hidden
           transition-all duration-300 ease-in-out
-          md:w-[200] w-[100]
           ${isOpen ? "max-h-125 mt-2 opacity-100" : "max-h-0 opacity-0"}
         `}
       >
