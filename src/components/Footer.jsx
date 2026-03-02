@@ -1,3 +1,4 @@
+import text from "./../assets/images/text.png";
 import Cta from "./Cta";
 
 function Footer() {
@@ -12,21 +13,8 @@ function Footer() {
 
       {/* BIG BRAND TEXT */}
       <div className="flex justify-center items-center">
-        <div className="mt-30">
-          <h1 className="
-            font-extrabold 
-            text-6xl 
-            sm:text-8xl 
-            md:text-[140px] 
-            lg:text-[200px]
-            leading-none
-            tracking-[20px]
-            md:tracking-widest
-            lg:tracking-[100px]
-            text-center
-          ">
-            FINOVO
-          </h1>
+        <div className="md:mt-30 mt-15 w-full">
+          <img src={text} alt="finovo" className="w-full"/>
         </div>
       </div>
 
