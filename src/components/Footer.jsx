@@ -21,7 +21,8 @@ function Footer() {
             lg:text-[200px]
             leading-none
             tracking-[20px]
-            md:tracking-[100px]
+            md:tracking-widest
+            lg:tracking-[100px]
             text-center
           ">
             FINOVO
