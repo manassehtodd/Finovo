@@ -31,7 +31,7 @@ function Testimonial() {
       rating: "⭐⭐⭐⭐⭐"},
     { img: reviewImg4, 
       text: "I've been using this app for months and it's been a game-changer.", 
-      name: "Sarah" , 
+      name: "Daniel" , 
       rating: "⭐⭐⭐⭐"},
     { img: reviewImg5, 
       text: "This app has helped me stay productive and focused.", 
