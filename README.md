@@ -60,14 +60,14 @@ cd Finovo
 npm install
 npm run dev
 
-🚀 How to Use
+##🚀 How to Use
 Once the app loads:
-Navigate the landing page
-Use the translation menu
-Explore the responsive dashboard layout
-Future updates will include interactive features (e.g., spending analytics, transaction tracking)
+- Navigate the landing page
+- Use the translation menu
+- Explore the responsive dashboard layout
+- Future updates will include interactive features (e.g., spending analytics, transaction tracking)
 
-📈 Future Enhancements (Roadmap)
+##📈 Future Enhancements (Roadmap)
 Below are planned features to make Finovo closer to a real finance product:
 🔹 Expense & income tracking system
 🔹 Analytics charts (bar / pie charts)
@@ -76,14 +76,14 @@ Below are planned features to make Finovo closer to a real finance product:
 🔹 User authentication (demo)
 🔹 Mock investing / portfolio simulator
 
-🧠 What I Learned Building Finovo
+##🧠 What I Learned Building Finovo
 This project demonstrates:
-Component architecture in React
-Responsive design principles
-Deployment using GitHub Pages
-UI/UX focus with real layout scaling
+- Component architecture in React
+- Responsive design principles
+- Deployment using GitHub Pages
+- UI/UX focus with real layout scaling
 
-🤝 Contributing
+##🤝 Contributing
 This is a demo project, but contributions are welcome!
 To contribute:
 Fork the repo
