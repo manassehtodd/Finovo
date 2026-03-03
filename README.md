@@ -1,19 +1,94 @@
-# React + Vite
+# 🚀 Finovo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Finovo** is a polished **demo finance dashboard web app** built with **React** and **Vite**.  
+It helps users visualize and track their personal finances with a clean UI and responsive layout.  
+This is a demo project designed to showcase frontend engineering skills, data visualization, and user-centric design.
 
-Currently, two official plugins are available:
+**Live Demo:** 
+https://manassehtodd.github.io/Finovo/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🧠 Why Finovo Matters
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Finovo simulates a personal finance dashboard that allows users to:
 
-Note: This will impact Vite dev & build performances.
+✔ Track spending and savings  
+✔ View financial summaries  
+✔ Interact with a responsive, modern UI  
+✔ Switch languages via a translation menu  
+✔ Visualize finance behavior (future enhancements planned)
 
-## Expanding the ESLint configuration
+Even though it’s a demo, Finovo is structured like a real product: user-focused, scalable, and ready to be extended.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Finovo
+---
+
+## 🛠 Built With
+
+| Category | Tool / Library |
+|----------|----------------|
+| Framework | React |
+| Build Tool | Vite |
+| Styling | Tailwind CSS|
+| Deployment | GitHub Pages |
+
+---
+
+## 📌 Features
+
+- 🌐 Responsive landing page
+- 🧭 Translation dropdown (multilingual support)
+- 📊 Structured UI for future analytics
+- 💡 Scalable folder architecture
+- 🖥 Live demo deployed via GitHub Pages
+
+---
+
+## 📂 Folder Structure
+
+
+---
+
+## 💻 Installation & Setup
+
+Follow these steps to run Finovo locally:
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/manassehtodd/Finovo.git
+cd Finovo
+npm install
+npm run dev
+
+🚀 How to Use
+Once the app loads:
+Navigate the landing page
+Use the translation menu
+Explore the responsive dashboard layout
+Future updates will include interactive features (e.g., spending analytics, transaction tracking)
+
+📈 Future Enhancements (Roadmap)
+Below are planned features to make Finovo closer to a real finance product:
+🔹 Expense & income tracking system
+🔹 Analytics charts (bar / pie charts)
+🔹 Local storage persistence
+🔹 Dark mode
+🔹 User authentication (demo)
+🔹 Mock investing / portfolio simulator
+
+🧠 What I Learned Building Finovo
+This project demonstrates:
+Component architecture in React
+Responsive design principles
+Deployment using GitHub Pages
+UI/UX focus with real layout scaling
+
+🤝 Contributing
+This is a demo project, but contributions are welcome!
+To contribute:
+Fork the repo
+Create a feature branch: git checkout -b feature/<name>
+Commit your changes
+Open a Pull Request
+
+
