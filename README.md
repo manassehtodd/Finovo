@@ -60,6 +60,8 @@ cd Finovo
 npm install
 npm run dev
 
+---
+
 ##🚀 How to Use
 Once the app loads:
 - Navigate the landing page
