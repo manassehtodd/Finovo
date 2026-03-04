@@ -56,9 +56,9 @@ Follow these steps to run Finovo locally:
 1. **Clone the repo**
    ```bash
    git clone https://github.com/manassehtodd/Finovo.git
-cd Finovo
-npm install
-npm run dev
+   cd Finovo
+   npm install
+   npm run dev
 
 ---
 
