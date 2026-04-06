@@ -1,8 +1,7 @@
 # 🚀 Finovo
 
 **Finovo** is a polished **demo finance dashboard web app** built with **React** and **Vite**.  
-It helps users visualize and track their personal finances with a clean UI and responsive layout.  
-This is a demo project designed to showcase frontend engineering skills, data visualization, and user-centric design.
+Finance is a Finance Landing page built with React and Tailwind CSS. It features a clean and modern design, responsive layout, and smooth animations. The project demonstrates frontend development skills, UI/UX design principles, and the ability to create visually appealing web interfaces.
 
 **Live Demo:** 
 https://manassehtodd.github.io/Finovo/
